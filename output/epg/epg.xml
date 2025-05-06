@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20250506065552 +0800">
+<tv date="20250506102346 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -28953,6 +28953,12 @@
 	<programme channel="黑莓动画" start="20250506130400 +0800" stop="20250506143300 +0800">
 		<title lang="zh">海绵宝宝：水兵陆战队</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250506143300 +0800" stop="20250506155900 +0800">
+		<title lang="zh">汪汪队立大功大电影（普通话版）</title>
+	</programme>
+	<programme channel="黑莓动画" start="20250506155900 +0800" stop="20250506173700 +0800">
+		<title lang="zh">银魂最终篇</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -28982,6 +28988,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20250506135000 +0800" stop="20250506150300 +0800">
 		<title lang="zh">鲁班四杰之伏龙海眼</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250506150300 +0800" stop="20250506163200 +0800">
+		<title lang="zh">马达加斯加3：欧洲大围捕</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
@@ -29613,6 +29622,9 @@
 	<programme channel="龙岩综合" start="20250506231500 +0800" stop="20250506235900 +0800">
 		<title lang="zh">午夜影剧院</title>
 	</programme>
+	<channel id="IPTV经典电影">
+		<display-name lang="zh">IPTV经典电影</display-name>
+	</channel>
 	<channel id="五星体育">
 		<display-name lang="zh">五星体育</display-name>
 	</channel>
@@ -29790,7 +29802,4 @@
 	<programme channel="苏州生活资讯" start="20250506231000 +0800" stop="20250506235959 +0800">
 		<title lang="zh">再见</title>
 	</programme>
-	<channel id="IPTV经典电影">
-		<display-name lang="zh">IPTV经典电影</display-name>
-	</channel>
 </tv>
